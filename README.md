@@ -3,6 +3,7 @@ This series of "Learn Web Scraping from Scratch" videos is designed for beginner
 
 You can access the full video series and detailed explanations here: 
 第一讲 爬虫基本原理和过程：https://www.bilibili.com/video/BV1wEzsYLEcG/?spm_id_from=333.999.0.0&vd_source=2f369110308eba0a931a1dc4d5fef546
+
 第二讲 HTML结构与标签认识：https://www.bilibili.com/video/BV1FpzsYkEis/?spm_id_from=333.999.0.0&vd_source=2f369110308eba0a931a1dc4d5fef546
 第三讲 爬虫程序的一般流程：https://www.bilibili.com/video/BV1WqzZY3EcN/?spm_id_from=333.999.0.0&vd_source=2f369110308eba0a931a1dc4d5fef546
 第四讲 爬虫程序之打开网页并模拟登陆：https://www.bilibili.com/video/BV1oq6AY1EsB/?spm_id_from=333.999.0.0&vd_source=2f369110308eba0a931a1dc4d5fef546
